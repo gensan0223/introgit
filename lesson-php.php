@@ -9,3 +9,9 @@
         # code...
         echo $i;
     }
+    $y = 700;
+    if($y < 900){
+        echo "good";
+    }else{
+        echo "bad";
+    }
